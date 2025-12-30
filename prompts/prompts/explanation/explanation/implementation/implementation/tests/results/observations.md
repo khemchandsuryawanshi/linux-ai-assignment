@@ -1,3 +1,0 @@
-- Performance issues correlated with application workload
-- No host-level contention observed
-- Automated recovery reduced downtime
