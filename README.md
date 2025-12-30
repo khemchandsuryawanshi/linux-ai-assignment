@@ -15,3 +15,8 @@ for Linux virtual machines hosted on VMware vSphere.
 
 ## Outcome
 Improved reliability and reduced operational overhead.
+
+## Assumptions
+- VMware vSphere and VMware Tools are available
+- Scripts are representative and can be extended for production use
+- AI is used as an assistant, not a replacement for engineering judgment
